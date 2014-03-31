@@ -1,0 +1,9 @@
+Building Thebotcoin
+
+See doc/readme-qt.rst for instructions on building Thebotcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Thebotcoin.
+
+See doc/build-*.txt for instructions on building Thebotcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of Thebotcoin.
